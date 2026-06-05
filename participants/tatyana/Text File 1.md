@@ -1,5 +1,4 @@
-Test text
-
-test commit 1
-
-I love a git
+<layoutItems>
+    <behavior>Readonly</behavior>
+    <field>Main_Domain_StarRating_Image__c</field>
+</layoutItems>
