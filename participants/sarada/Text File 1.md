@@ -1,1 +1,11 @@
-Hello World
+Hello World 
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>GitHub</fullName>
+    <active>true</active>
+    <label>GitHub</label>
+    <description>Record type for GitHub related cases</description>
+</RecordType>
+<layoutItems>
+    <behavior>Readonly</behavior>
+    <field>Main_Domain_StarRating_Image__c</field>
+</layoutItems>
