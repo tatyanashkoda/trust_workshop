@@ -5,3 +5,7 @@ Hello World
     <label>GitHub</label>
     <description>Record type for GitHub related cases</description>
 </RecordType>
+<layoutItems>
+    <behavior>Readonly</behavior>
+    <field>Main_Domain_StarRating_Image__c</field>
+</layoutItems>
