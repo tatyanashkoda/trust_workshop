@@ -3,6 +3,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.ChurnEmailAlertNeededDate__c</field>
-        <readable>true
+        <readable>false</readable>
     </fieldPermissions>
 </PermissionSet>
