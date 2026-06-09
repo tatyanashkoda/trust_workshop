@@ -1,11 +1,8 @@
-Hello World 
-<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>GitHub</fullName>
-    <active>true</active>
-    <label>GitHub</label>
-    <description>Record type for GitHub related cases</description>
-</RecordType>
-<layoutItems>
-    <behavior>Readonly</behavior>
-    <field>Main_Domain_StarRating_Image__c</field>
-</layoutItems>
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.ChurnEmailAlertNeededDate__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+</PermissionSet>
